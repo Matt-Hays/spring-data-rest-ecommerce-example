@@ -1,6 +1,6 @@
-package hays.demos.springecommerce.repositories;
+package matt.demos.springecommerce.repositories;
 
-import hays.demos.springecommerce.domain.ProductCategory;
+import matt.demos.springecommerce.domain.ProductCategory;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.rest.core.annotation.RepositoryRestResource;
 

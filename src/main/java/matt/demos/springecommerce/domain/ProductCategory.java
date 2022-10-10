@@ -1,4 +1,4 @@
-package hays.demos.springecommerce.domain;
+package matt.demos.springecommerce.domain;
 
 import lombok.Getter;
 import lombok.Setter;
